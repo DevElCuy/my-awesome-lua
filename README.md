@@ -374,7 +374,7 @@ Inspired by the list [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/aw
 ### Web Frameworks
 - [Lapis](http://leafo.net/lapis/) - A web framework for Lua or MoonScript, powered by OpenResty
 - [Sailor](http://sailorproject.org/) - A Lua MVC web framework.
-- [Ophal](https://ophal.org/) - The highly scalable Lua CMS/CMF and web platform
+- [Ophal](https://github.com/ophal) - The highly scalable Lua CMS/CMF and web platform
 - [Orbit](http://keplerproject.github.io/orbit/) - an MVC web framework for Lua, based on WSAPI. [[1]](https://luanova.org/orbit1-2/)
 - [Lor Framework](http://lor.sumory.com/) - a fast, minimalist Web & API framework for lua based on OpenResty
 - [Vanilla](https://github.com/idevz/vanilla) - An OpenResty Lua MVC Web Framework
